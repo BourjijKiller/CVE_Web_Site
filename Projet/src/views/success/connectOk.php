@@ -1,0 +1,3 @@
+<div style="margin:4%;color:green;font-weight: bold;" class="alert alert-success alert-dismissible" role="alert">
+	<span class="glyphicon glyphicon-ok"></span>  Vous allez être redirigé sur la page d'accueil dans <span id=decompte2>5</span> secondes...
+</div>
